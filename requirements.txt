@@ -1,7 +1,7 @@
 config==0.3.9
 dj-database-url==0.4.1
 dj-static==0.0.6
-Django==1.8.7
+Django==1.9
 Jinja2==2.8
 MarkupSafe==0.23
 python-decouple==3.0
